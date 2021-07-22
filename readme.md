@@ -7,10 +7,14 @@ When your MacOS battery is below x percentage, you'll receive a more obvious ale
 TODOs:
 
 * make alert more obtrusive (hijack window focus)
-* * predict remaining battery life in minute
+* predict remaining battery life in minutes
 * make threshold configurable
 * configurable audible alert
 * pleasant UI
-* configurable for startup?
+* launch on startup
 * custom app icon
 * cross platform support?
+
+Questions?
+
+Tweet me [@_shakeel](http://twitter.com/_shakeel)
