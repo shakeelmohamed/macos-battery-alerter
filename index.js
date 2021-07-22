@@ -25,7 +25,7 @@ function getRemainingTime() {
 
 setInterval(() => {
   getRemainingTime().then((percentage) => {
-    if (percentage < 101) {
+    if (percentage < 10) {
       dialog.showErrorBox("WARNING", "Battery percentage is: " + percentage);  
     }
   });  
